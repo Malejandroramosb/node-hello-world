@@ -1,3 +1,3 @@
 @Library('global-library') _
 
-BasicPipeline()
+Basicbuild()
